@@ -28,8 +28,8 @@ I build complete web applications from frontend to backend and deploy them to cl
 ---
 
 ## 📫 Contact Me
-- 📧 Email: your-email@gmail.com
-- 💼 LinkedIn: your-linkedin-url
+- 📧 Email: udaykumarkondapalli1@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/udaykumar6304254104
 
 ---
 
