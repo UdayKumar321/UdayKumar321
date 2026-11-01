@@ -1,6 +1,6 @@
 # Hi there, I'm K. Uday Kumar 👋
 
-## 🚀 Full Stack Developer | React.js | Spring Boot | MySQL
+## 🚀 Full Stack Developer | React.js | Python | MySQL
 
 I build complete web applications from frontend to backend and deploy them to cloud platforms.
 
